@@ -1,0 +1,15 @@
+.cardgroup{
+    margin-top: 10em;
+    margin-left: 2em;
+    margin-right: 2em;
+    
+  }
+
+
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	
+    
+    
+  }

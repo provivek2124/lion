@@ -1,0 +1,16 @@
+.services{
+    margin-top: 50px;
+    padding: 50px 50px;
+}
+
+.extradivv{
+	background: #D0D3D4;
+	border: medium none;
+	padding: 10px!important;
+	border-radius: 3px;
+    transition: 0.3s;
+} 
+
+.con{
+    padding: 70px 50px;
+}

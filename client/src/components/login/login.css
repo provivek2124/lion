@@ -1,0 +1,60 @@
+ .login {
+  margin-top: 10em;
+  
+  
+  } 
+
+  .formcontainer{
+    background-color: #E0EDEC;
+    margin-left: 10em;
+    margin-right: 10em;
+    padding: 30px;
+    padding-left: 10em;
+    padding-right: 10em;
+    border-radius: 2em;
+    box-shadow: 0px 0px 10px 0px #000;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    }
+
+    .title{
+      text-align: center;
+      
+      } 
+  .clear {
+   position: absolute;
+   display: inline;
+   color:var(--primary-color);
+   background: rgb(189, 187, 187);
+   bottom:0;
+   right: 0;
+  }
+
+  .question {
+    color: #333;
+    margin: 1.5rem 0
+  }
+  .question a {
+    color: var(--primary-color);
+      }
+
+      .danger {
+        background-color: rgb(207, 58, 58);
+        width: 100%;
+        margin-bottom: 0.3rem;
+        margin-top:0rem;
+        text-transform: capitalize;
+        padding:0.5rem;
+        cursor:initial;
+        border:none;
+        color:#fff;
+        font:inherit
+        
+        }
+      .danger span {
+        float: right;
+        cursor: pointer;
+      }
